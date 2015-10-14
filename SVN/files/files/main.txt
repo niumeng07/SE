@@ -1,5 +1,0 @@
-#define CUSTOMER_DEFAULT        0
-#define CUSTOMER_CAIXUN         1
-#define CUSTOMER_QHTF           2
-#define CUSTOMER_MAKENA         3
-#define CUSTOMER_TCL            4
